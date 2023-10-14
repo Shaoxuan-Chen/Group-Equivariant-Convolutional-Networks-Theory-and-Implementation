@@ -1,0 +1,1 @@
+# Group-Equivariant-Convolutional-Networks-Theory-and-Implementation
